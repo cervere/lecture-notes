@@ -1,2 +1,4 @@
-# lecture-notes
-Daily lecture notes
+# Notes from daily lectures
+
+## Dec 21, Programming Fundamentals
+
